@@ -1,2 +1,2 @@
-# murasaki-cli-kanjidic-reader
-KANJIDIC reader for Murasaki CLI.
+# murasaki-cli-downloader
+Dataset downloader for Murasaki CLI.
